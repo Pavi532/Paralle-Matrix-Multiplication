@@ -1,5 +1,5 @@
 # Paralle-Matrix-Multiplication
-Matrix multiplication using parallel programming in C (Pthrea and OpenMP) along with a sequential approach on Windows.
+Matrix multiplication using parallel programming in C (Pthread and OpenMP) along with a sequential approach on Windows.
 The three programs print the time it took to multiply the two square matrices of given size. Use matrix sizes above 500 for better reults. **Keep the number of threads equal to the number of logical processors on your CPU.** 
 
 ## PThread for Windows
